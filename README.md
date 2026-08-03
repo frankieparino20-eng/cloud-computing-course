@@ -14,9 +14,9 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 👤 Student Information
 
-- Name: [Iyong Buong Pangalan]
-- Course/Section: [Iyong Course at Section]
-- Instructor: [Pangalan ng Instructor]
+- Name: FRANKIE M. PARIÑO
+- Course/Section: BSIT 4K
+- Instructor: Maam:JENKIELYN C. TORRES
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
